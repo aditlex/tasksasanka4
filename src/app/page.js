@@ -544,15 +544,15 @@ export default function Home() {
             to get more done.
           </h1>
         </div>
+<div className="grid grid-cols-2 md:grid-cols-6 items-center justify-items-center space-y-7 mt-5">
+  <img className="h-auto w-25" src="foot1.svg" />
+  <img className="h-auto w-25" src="foot2.svg" />
+  <img className="h-auto w-25" src="foot3.svg" />
+  <img className="h-auto w-25" src="foot4.svg" />
+  <img className="h-auto w-25" src="foot6.svg" />
+  <img className="h-auto w-25" src="foot7.svg" />
+</div>
 
-        <div className="flex gap-5 mx-auto w-full items-center justify-center">
-          <img className="h-auto w-25" src="foot1.svg"></img>
-          <img className="h-auto w-25" src="foot2.svg"></img>
-          <img className="h-auto w-25" src="foot3.svg"></img>
-          <img className="h-auto w-25" src="foot4.svg"></img>
-          <img className="h-auto w-25" src="foot6.svg"></img>
-          <img className="h-auto w-25" src="foot7.svg"></img>
-        </div>
       </section>
 
       <section className="bg-[#F4F5F7] py-20 px-4 mt-10">
