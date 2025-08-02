@@ -139,7 +139,7 @@ export default function Home() {
       </nav>
 
       {isOpen && (
-        <div className="flex flex-col gap-3 px-6 py-4 bg-white border-b md:hidden animate-slide-down sticky">
+        <div className="flex flex-col gap-3 px-6 py-4 bg-white border-b md:hidden animate-slide-down top-15 sticky">
           <a href="#" className="text-black hover:text-blue-500">
             Features
           </a>
